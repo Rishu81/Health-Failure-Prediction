@@ -1,6 +1,6 @@
 # ❤️ Heart Failure Prediction Project
 
-![Heart Failure Prediction](https://media.giphy.com/media/3o6ZsR7d9djGxI53ug/giphy.gif)
+![Heart Failure Prediction](https://media.giphy.com/media/aJWyshx5eNYCFXdHzI/giphy.gif)
 
 ## 📋 Project Overview
 This project aims to predict the likelihood of heart failure in patients using machine learning. Early detection of heart conditions can save lives by allowing for timely medical intervention. Using clinical data from patients, we developed a model to assess heart failure risk based on various health indicators.
